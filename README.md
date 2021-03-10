@@ -1,8 +1,8 @@
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="400" height="400" src="https://veja.abril.com.br/wp-content/uploads/2016/08/imagens-do-dia-mundo-panda-completa-um-ano-kuala-lumpur-23082016-023.jpg">
  
-# Bem-vindo!
+# Olá!
  
-## Eu sou o Eric! Muito prazer, vou te contar um pouquinho sobre mim e minhas habilidades. :D
+## Eu sou o Eric! Muito prazer. Vou te contar um pouquinho sobre mim e minhas habilidades. :D
 
 Dev Web com ênfase em Front-end, mas também mexo no Back-end com Node.
 
