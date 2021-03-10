@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+ 
+# Bem-vindo!
+ 
+## Eu sou o Eric! Muito prazer, vou te contar um pouquinho sobre mim e minhas habilidades. :D
 
-<!--
-**EricEOL/EricEOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dev Web com ênfase em Front-end, mas também mexo no Back-end com Node.
 
-Here are some ideas to get you started:
+Gosto muito de utilizar React e Next nas minhas aplicações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho muito prazer em desenvolver aplicações que auxiliem as pessoas a minha volta.
+
+
+## About me 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-oliveira-lopes/)](https://www.linkedin.com/in/eric-oliveira-lopes/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lopes.eric051@gmail.com)](lopes.eric051@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EricEOL)](https://github.com/EricEOL)
+
+- Agradeço pela visita! 
