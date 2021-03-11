@@ -10,7 +10,7 @@
 
 - Tenho muito prazer em desenvolver aplicações que auxiliem as pessoas a minha volta.
 
-- Links para me encontar:
+- Links para me encontrar:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-oliveira-lopes/)](https://www.linkedin.com/in/eric-oliveira-lopes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lopes.eric051@gmail.com)](lopes.eric051@gmail.com)
