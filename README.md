@@ -2,7 +2,7 @@
  
 # Olá!
  
-## Eu sou o Eric! Muito prazer :D Vou te contar um pouquinho sobre mim e minhas habilidades.
+## Me chamo Eric! Muito prazer :D Vou te contar um pouquinho sobre mim e minhas habilidades.
 
 - Web Developer com ênfase em Front-end, mas também mexo no Back-end com Node.
 
