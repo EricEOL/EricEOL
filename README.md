@@ -1,5 +1,3 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/N6funLtVsHW0g/giphy.gif">
- 
 # Eric Lopes
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eric%20Lopes-2f8609?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/eric-oliveira-lopes/)](https://www.linkedin.com/in/eric-oliveira-lopes/)
