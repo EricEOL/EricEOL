@@ -10,6 +10,6 @@
 
 - Tenho muito prazer em desenvolver aplicações que auxiliem as pessoas a minha volta.
 
-- Atualmente cursando o Bootcamp Ignite da [Rocketseat](https://rocketseat.com.br/) e MBA em Full Stack Developer na [Faculdade Impacta](https://www.impacta.com.br/).
+- Atualmente cursando o Bootcamp Ignite da [Rocketseat](https://rocketseat.com.br/), diversos cursos na Alura e Graduação em Análise e Desenvolvimento de Sistemas.
 
 #### Agradeço pela visita! 
