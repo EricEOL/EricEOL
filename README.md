@@ -10,6 +10,6 @@
 
 - Tenho muito prazer em desenvolver aplicações que auxiliem as pessoas a minha volta.
 
-- Atualmente cursando o Bootcamp Ignite da [Rocketseat](https://rocketseat.com.br/), diversos cursos na Alura e o penúltimo período de Graduação em Análise e Desenvolvimento de Sistemas.
+- Atualmente cursando o Bootcamp Ignite da [Rocketseat](https://rocketseat.com.br/), diversos cursos na [Alura](https://www.alura.com.br/) e o penúltimo período de Graduação em Análise e Desenvolvimento de Sistemas.
 
 #### Agradeço pela visita! 
