@@ -4,9 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-lopes.eric051@gmail.com-2f8609?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lopes.eric051@gmail.com)](lopes.eric051@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-EricEOL-2f8609?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EricEOL)](https://github.com/EricEOL)
  
-- Web Developer com ênfase em Front-end, mas também mexo no Back-end com Node.
+- Sou desenvolvedor FullStack utilizando principalmente Javascript. Atualmente tenho me dedicado bastante ao React com Nextjs, sem contar em CSS que gosto bastante, utilizo Styled Components em muitos dos meus projetos e também Sass, Chakra UI, Bootstrap e TailwindCSS. 
 
-- Gosto muito de utilizar React e Next nas minhas aplicações.
+- No Back-end meu foco está em Nodejs principalmente na construção de APIs, tendo experiência com bancos de dados relacionais (SQL) e não relacionais (NoSQL), como Firebase, MongoDB, MySQL e PostgreSQL. 
 
 - Tenho muito prazer em desenvolver aplicações que auxiliem as pessoas a minha volta.
 
