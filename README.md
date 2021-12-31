@@ -12,6 +12,6 @@
 
 - Tudo que eu estudo e que coloco em prática tem o objetivo de desenvolver aplicações que auxiliem as pessoas a minha volta, facilitando a resolução de problemas por meio dos sistemas.
 
-- Atualmente estou cursando o Bootcamp Ignite da [Rocketseat](https://rocketseat.com.br/), diversos cursos na [Alura](https://www.alura.com.br/) e [Digital Innovation One](https://digitalinnovation.one/) focados principalmente em Java e também me encontro no último período de Graduação em Análise e Desenvolvimento de Sistemas.
+- Atualmente estou cursando o Bootcamp Ignite da [Rocketseat](https://rocketseat.com.br/), diversos cursos na [Alura](https://www.alura.com.br/) e [Cod3r](https://www.cod3r.com.br/) focados principalmente em Java e também me encontro no último período de Graduação em Análise e Desenvolvimento de Sistemas.
 
 #### Agradeço pela visita! 
