@@ -2,16 +2,17 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eric%20Lopes-2f8609?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/eric-oliveira-lopes/)](https://www.linkedin.com/in/eric-oliveira-lopes/)
 [![Gmail Badge](https://img.shields.io/badge/-lopes.eric051@gmail.com-2f8609?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lopes.eric051@gmail.com)](lopes.eric051@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-EricEOL-2f8609?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EricEOL)](https://github.com/EricEOL)
  
-- Sou desenvolvedor FullStack utilizando principalmente Javascript. Me dedico bastante ao React com Nextjs, sem contar em CSS que gosto bastante, utilizo Styled Components em muitos dos meus projetos e também Sass, Chakra UI, Bootstrap e TailwindCSS. 
+- Sou desenvolvedor FullStack utilizando principalmente Java e Nodejs no Back-end e React e Javascript Vanilla no Front-end. 
 
-- No Back-end minha maior experiência está em Nodejs principalmente na construção de APIs, tendo utilizado bancos de dados relacionais (SQL) e não relacionais (NoSQL), como Firebase, MongoDB, MySQL e PostgreSQL. 
+- Atualmente estou me dedicando muito e me aprofundando na plataforma Java. Desenvolvendo projetos com JPA e Hibernate, Spring Boot, Spring Data, JSP (Java Server Pages) etc e utilizando os bancos de dados MySQL e PostgreSQL.
 
-- No momento estou me aprofundando em Java pois tenho grande interesse na utilização dessa linguagem que é usada por tantos desenvolvedores e tantas grandes empresas de sucesso.
+- Me dedico muito também no Front-end utilizando React com Nextjs, sem contar em CSS que gosto bastante, utilizo Styled Components em muitos dos meus projetos e também Sass, Chakra UI, Bootstrap e TailwindCSS. 
 
-- Tudo que eu estudo e que coloco em prática tem o objetivo de desenvolver aplicações que auxiliem as pessoas a minha volta, facilitando a resolução de problemas por meio dos sistemas.
+- No Back-end, além da utilização do Java, tenho experiência em Nodejs principalmente na construção de APIs, tendo utilizado bancos de dados relacionais (SQL) e não relacionais (NoSQL), como MySQL, PostgreSQL, Firebase e MongoDB. 
 
-- Atualmente estou cursando o Bootcamp Ignite da [Rocketseat](https://rocketseat.com.br/), diversos cursos na [Alura](https://www.alura.com.br/) e [Cod3r](https://www.cod3r.com.br/) focados principalmente em Java e também me encontro no último período de Graduação em Análise e Desenvolvimento de Sistemas.
+- Tudo que eu estudo e que coloco em prática tem o objetivo de desenvolver aplicações que auxiliem as pessoas a minha volta, facilitando a resolução de problemas por meio dos sistemas, motivando muito ver que as aplicações realmente fazem diferença no dia a dia das pessoas.
+
+- Na parte de estudo, estou cursando o último período de Graduação em Análise e Desenvolvimento de Sistemas, o curso Formação Java Web Full-Stack do [JDev](https://www.jdevtreinamento.com.br/formacao-java-web-profissional), o Curso de Java 2021 do Zero ou Profissional da [Cod3r](https://www.cod3r.com.br/), o Bootcamp Ignite da [Rocketseat](https://rocketseat.com.br/) focado em React, React Native e Nodejs e diversos cursos na plataforma da [Alura](https://www.alura.com.br/). Sempre buscando evoluir para desenvolver sistemas mais completos e confiáveis.
 
 #### Agradeço pela visita! 
