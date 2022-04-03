@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Eric%20Lopes-2f8609?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/eric-oliveira-lopes/)](https://www.linkedin.com/in/eric-oliveira-lopes/)
 [![Gmail Badge](https://img.shields.io/badge/-lopes.eric051@gmail.com-2f8609?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lopes.eric051@gmail.com)](lopes.eric051@gmail.com)
  
-- Sou desenvolvedor FullStack utilizando principalmente Java e Nodejs no Back-end e React e Javascript Vanilla no Front-end. 
+- Sou desenvolvedor FullStack utilizando principalmente Java e Nodejs no Back-end e React, Angular e Javascript Vanilla no Front-end. 
 
 - Atualmente estou me dedicando muito e me aprofundando na plataforma Java. Desenvolvendo projetos com JPA e Hibernate, Spring Boot, Spring Data, JSP (Java Server Pages) etc e utilizando os bancos de dados MySQL e PostgreSQL.
 
