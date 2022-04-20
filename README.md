@@ -1,5 +1,5 @@
 <p align="center" dir="auto">
-    <img src="https://raw.githubusercontent.com/EricEOL/presentation/main/src/assets/meu-logo-function.png" width="120" style="max-width: 100%;" />
+    <img src="https://raw.githubusercontent.com/EricEOL/ericeol.dev/main/src/assets/meu-logo-function-BG.png" width="120" style="max-width: 100%;" />
 </p>
 
 <h1 align="center" dir="auto" style="border-bottom: 1px solid gray">
