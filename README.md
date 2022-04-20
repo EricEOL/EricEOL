@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" dir="auto" style="border-bottom: 1px solid gray">
-    <a href="" rel="nofollow">Eric Oliveira Lopes</a>
+    <a href="https://github.com/EricEOL" rel="nofollow">Eric Oliveira Lopes</a>
 </h1>
 
 <p align="center" dir="auto"><strong>Fullstack developer:</strong> Java - NodeJS - ReactJS - Angular</p>
