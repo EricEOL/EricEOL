@@ -10,7 +10,7 @@
 
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/eric-oliveira-lopes/" rel="nofollow">LinkedIn</a> | 
-  <a href="https://ericeol-dev.vercel.app/home" rel="nofollow">Portfólio</a> |
+  <!-- <a href="https://ericeol-dev.vercel.app/home" rel="nofollow">Portfólio</a> | -->
   <a href="https://lopesnotes.vercel.app/" rel="nofollow">Blog</a> | 
   <a href="https://docs.google.com/document/d/1z7S2tQR4t_70hoozCqKZcw_CwIXXK1TVa45mKwu016g/edit?usp=sharing" rel="nofollow">Curriculum</a>
 </p>
