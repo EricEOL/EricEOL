@@ -11,7 +11,7 @@
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/eric-oliveira-lopes/" rel="nofollow" target="_blank">LinkedIn</a> | 
   <a href="https://lopesnotes.vercel.app/" rel="nofollow" target="_blank">Blog</a> | 
-  <a href="https://docs.google.com/document/d/1z7S2tQR4t_70hoozCqKZcw_CwIXXK1TVa45mKwu016g/edit?usp=sharing" rel="nofollow" target="_blank">Curriculum</a>
+  <a href="https://docs.google.com/document/d/1MdZUpcESTFfAC_8lz7TIQ6UI61I5WUIOer6PHClxiQ8/edit?usp=sharing" rel="nofollow" target="_blank">Curriculum</a>
 </p>
 
 <p dir="auto">Sou desenvolvedor FullStack utilizando principalmente Java e Nodejs no Back-end e React, Angular e Javascript Vanilla no Front-end.</p>
