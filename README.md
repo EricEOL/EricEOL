@@ -27,7 +27,4 @@
 <li>
 <p dir="auto">No Back-end, além da utilização do Java, tenho experiência em Nodejs principalmente na construção de APIs, tendo utilizado bancos de dados relacionais (SQL) e não relacionais (NoSQL), como MySQL, PostgreSQL, Firebase e MongoDB.</p>
 </li>
-<li>
-<p dir="auto">Tudo que eu estudo e que coloco em prática tem o objetivo de desenvolver aplicações que auxiliem as pessoas a minha volta, facilitando a resolução de problemas por meio dos sistemas, motivando muito ver que as aplicações realmente fazem diferença no dia a dia das pessoas.</p>
-</li>
 </ul>
