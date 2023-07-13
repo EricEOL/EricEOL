@@ -14,17 +14,18 @@
  <a href="https://docs.google.com/document/d/1MdZUpcESTFfAC_8lz7TIQ6UI61I5WUIOer6PHClxiQ8/edit?usp=sharing" rel="nofollow" target="_blank">Curriculum</a>-->
 </p>
 
-<p dir="auto">Sou desenvolvedor FullStack utilizando principalmente Java e Nodejs no Back-end e React, Angular e Javascript Vanilla no Front-end.</p>
-
+<p dir="auto">
+I'm Fullstack developer focused on Back-end technologies. I have work experience in some technologies, such as:
+</p>
 
 <ul dir="auto">
 <li>
-<p dir="auto">Atualmente estou me dedicando muito e me aprofundando na plataforma Java. Desenvolvendo projetos com JPA e Hibernate, Spring Boot, Spring Data, JSP (Java Server Pages) etc e utilizando os bancos de dados MySQL e PostgreSQL.</p>
+<p dir="auto">Back-end: work experience with Java 8+ (Spring stack and JEE) and Nodejs.</p>
 </li>
 <li>
-<p dir="auto">Me dedico muito também no Front-end utilizando React com Nextjs, sem contar em CSS que gosto bastante, utilizo Styled Components em muitos dos meus projetos e também Sass, Chakra UI, Bootstrap e TailwindCSS.</p>
+<p dir="auto">Front-end: work experience with Reactjs, Angular, Javascript and Typescript.</p>
 </li>
 <li>
-<p dir="auto">No Back-end, além da utilização do Java, tenho experiência em Nodejs principalmente na construção de APIs, tendo utilizado bancos de dados relacionais (SQL) e não relacionais (NoSQL), como MySQL, PostgreSQL, Firebase e MongoDB.</p>
+<p dir="auto">Databases: work experience with OracleDB, MySQL, Postgres and MongoDB.</p>
 </li>
 </ul>
