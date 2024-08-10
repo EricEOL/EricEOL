@@ -6,7 +6,7 @@
     <a href="https://github.com/EricEOL" rel="nofollow">Eric Oliveira Lopes</a>
 </h1>
 
-<p align="center" dir="auto"><strong>Fullstack developer:</strong> Java - NodeJS - ReactJS - Angular</p>
+<p align="center" dir="auto"><strong>Fullstack developer:</strong> Python - Java - NodeJS - ReactJS - Angular</p>
 
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/eric-oliveira-lopes/" rel="nofollow" target="_blank">LinkedIn</a> | 
@@ -20,7 +20,7 @@ I'm Fullstack developer focused on Back-end technologies. I have work experience
 
 <ul dir="auto">
 <li>
-<p dir="auto">Back-end: work experience with Java 8+ (Spring stack and JEE) and Nodejs.</p>
+<p dir="auto">Back-end: work experience with Python, Java 8+ (Spring stack and JEE) and Nodejs.</p>
 </li>
 <li>
 <p dir="auto">Front-end: work experience with Reactjs, Angular, Javascript and Typescript.</p>
